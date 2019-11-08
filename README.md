@@ -1,4 +1,4 @@
-# A demo of object detection --SSD(pytorch)
+# A jupyter demo of object detection --SSD(pytorch)
 Including visualization made by visdom and MAP evaluation 
 
 This notebook is written to introduce the whole process of deep learning. Here I choose the pytorch version of SSD as an example to show how to train, evaluate and test a model.
