@@ -19,9 +19,6 @@ The dataset I use in this process is VOC2007, so you need to download it at [htt
 Unzip it to VOCdevkit directory and the path should look like this
 ```
 ├─VOCdevkit
-│  ├─results
-│  │  └─VOC2007
-│  │      └─Main
 │  └─VOC2007
 │      ├─Annotations
 │      ├─ImageSets
