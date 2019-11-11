@@ -33,3 +33,6 @@ In the original directory there is a txt file named val1.txt, it's made by mysel
 **move the `val1.txt` to `./VOCdevkit/VOC2007/ImageSets/Main/`** after you download VOC2007 
 
 Also,our model need a pre-parameter of VGG16, so you need to download the vgg16-parameters to the **weights** directory from [https://s3.amazonaws.com/amdegroot-models/vgg16_reducedfc.pth](https://s3.amazonaws.com/amdegroot-models/vgg16_reducedfc.pth)
+
+Here is a model that has been trained, please download it and put it in the weights directory. We will use it in our notebook
+[https://drive.google.com/open?id=1V3ENrSdritzzdLJepxyBpUEzNbcNBZlX](https://drive.google.com/open?id=1V3ENrSdritzzdLJepxyBpUEzNbcNBZlX)
